@@ -1,0 +1,38 @@
+.bg-img {
+  background-color: #ffffff;
+  display: flex;
+}
+
+.time {
+  font-size: 8px;
+  color: #475569;
+  font-family: roboto;
+}
+
+.logo {
+  height: 15px;
+  width: 15px;
+}
+
+.title {
+  font-size: 10px;
+  color: #000000;
+  font-weight: 400;
+  font-family: roboto;
+}
+
+.url {
+  font-size: 10px;
+  color: #64748b;
+  font-family: roboto;
+}
+
+.delete-logo {
+  height: 15px;
+  width: 15px;
+}
+
+.arrange {
+  display: flex;
+  justify-content: space-between;
+}
